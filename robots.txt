@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://floridaaudit.github.io/sitemap.xml
