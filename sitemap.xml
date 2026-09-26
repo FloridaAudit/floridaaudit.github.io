@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://floridaaudit.github.io/</loc></url>
+  <url><loc>https://floridaaudit.github.io/</loc><lastmod>2026-09-27</lastmod></url>
   <url><loc>https://floridaaudit.github.io/methods.html</loc></url>
   <url><loc>https://floridaaudit.github.io/corrections.html</loc></url>
+  <url><loc>https://floridaaudit.github.io/c/who-governs/</loc></url>
+  <url><loc>https://floridaaudit.github.io/c/who-governs/one-party-control.html</loc><lastmod>2026-09-27</lastmod></url>
+  <url><loc>https://floridaaudit.github.io/c/who-governs/house-seats.html</loc><lastmod>2026-09-27</lastmod></url>
+  <url><loc>https://floridaaudit.github.io/c/who-governs/senate-seats.html</loc><lastmod>2026-09-27</lastmod></url>
 </urlset>
