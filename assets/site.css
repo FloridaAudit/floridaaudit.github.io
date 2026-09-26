@@ -68,3 +68,14 @@ section { margin: 0 0 8px; }
   h1 { font-size: 25px; }
   main { padding: 24px 16px 48px; }
 }
+
+/* Topic pages */
+.topic .sub { font-size: 1.15rem; }
+.scope { margin: 1.5rem 0; padding: 1rem 1.25rem; border-left: 3px solid currentColor; }
+.scope dt { font-weight: 700; margin-top: .6rem; }
+.scope dt:first-child { margin-top: 0; }
+.scope dd { margin: .2rem 0 0; }
+.topic-charts { list-style: none; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1.25rem; }
+.topic-charts img { width: 100%; height: auto; display: block; }
+.topic-charts span { display: block; margin-top: .4rem; font-weight: 600; }
+.related { margin-top: 2rem; }
