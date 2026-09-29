@@ -4,7 +4,7 @@
   <link href="https://floridaaudit.github.io/"/>
   <link rel="self" href="https://floridaaudit.github.io/feed.xml"/>
   <id>https://floridaaudit.github.io/</id>
-  <updated>2026-09-27T00:00:00Z</updated>
+  <updated>2026-09-29T00:00:00Z</updated>
   <entry>
     <title>Florida has elected a Republican governor and Legislature in every election since 1998.</title>
     <link href="https://floridaaudit.github.io/c/who-governs/one-party-control.html"/>
@@ -25,5 +25,68 @@
     <id>https://floridaaudit.github.io/c/who-governs/senate-seats.html</id>
     <updated>2026-09-27T00:00:00Z</updated>
     <summary>Who Governs: Seats by party, Florida Senate (40 seats), 1980 to 2026.</summary>
+  </entry>
+  <entry>
+    <title>By 2028 the maximum non-school homestead exemption would be $250,000 under Amendment 3, against $52,805 under current law.</title>
+    <link href="https://floridaaudit.github.io/c/property-taxes/homestead-exemption-250k.html"/>
+    <id>https://floridaaudit.github.io/c/property-taxes/homestead-exemption-250k.html</id>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <summary>Property Taxes: Maximum exempt assessed value for a qualifying homestead, non-school levies, by roll year.</summary>
+  </entry>
+  <entry>
+    <title>From 2028, the exemption would cut a homestead's non-school property tax by at most $2,075 a year.</title>
+    <link href="https://floridaaudit.github.io/c/property-taxes/homestead-saving-per-house.html"/>
+    <id>https://floridaaudit.github.io/c/property-taxes/homestead-saving-per-house.html</id>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <summary>Property Taxes: Yearly saving for one qualifying homestead, not for a household: the exempt value added over the 2026 maximum ($98,589 in 2027, $198,589 in...</summary>
+  </entry>
+  <entry>
+    <title>Florida's 2.92 million renter households would get no homestead exemption.</title>
+    <link href="https://floridaaudit.github.io/c/property-taxes/renter-households-no-exemption.html"/>
+    <id>https://floridaaudit.github.io/c/property-taxes/renter-households-no-exemption.html</id>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <summary>Property Taxes: Occupied housing units by tenure, Florida, 2024.</summary>
+  </entry>
+  <entry>
+    <title>Amendment 3 would reduce local non-school property tax revenue by an estimated $11.83 billion a year by fiscal 2031-32.</title>
+    <link href="https://floridaaudit.github.io/c/property-taxes/local-revenue-reduction-by-entity.html"/>
+    <id>https://floridaaudit.github.io/c/property-taxes/local-revenue-reduction-by-entity.html</id>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <summary>Property Taxes: Estimated reduction in local non-school property tax revenue by the government that levies it.</summary>
+  </entry>
+  <entry>
+    <title>Amendment 3 lists seven permitted uses for county and city property taxes.</title>
+    <link href="https://floridaaudit.github.io/c/property-taxes/seven-permitted-uses.html"/>
+    <id>https://floridaaudit.github.io/c/property-taxes/seven-permitted-uses.html</id>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <summary>Property Taxes: Text of the proposed Article VII, Section 9(a)(2).</summary>
+  </entry>
+  <entry>
+    <title>Amendment 3 is on the ballot because the Legislature put it there: 75-26 in the House, 30-9 in the Senate.</title>
+    <link href="https://floridaaudit.github.io/c/property-taxes/legislature-roll-call.html"/>
+    <id>https://floridaaudit.github.io/c/property-taxes/legislature-roll-call.html</id>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <summary>Property Taxes: Votes on June 2, 2026 on CS/HJR 1-F.</summary>
+  </entry>
+  <entry>
+    <title>As a share of today's budget, eight counties will lose more than half of their non-school property tax by 2032.</title>
+    <link href="https://floridaaudit.github.io/c/property-taxes/county-share-of-2025-levies.html"/>
+    <id>https://floridaaudit.github.io/c/property-taxes/county-share-of-2025-levies.html</id>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <summary>Property Taxes: Recurring annual reduction estimated for FY2031-32, against each county's 2025 non-school levies, for every local government in the county.</summary>
+  </entry>
+  <entry>
+    <title>Ten counties carry $7.54 billion of the $11.83 billion, and 60% of that comes off county government.</title>
+    <link href="https://floridaaudit.github.io/c/property-taxes/ten-counties-by-government-type.html"/>
+    <id>https://floridaaudit.github.io/c/property-taxes/ten-counties-by-government-type.html</id>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <summary>Property Taxes: Recurring annual reduction in local non-school property tax revenue once the exemption is fully phased in, for the ten largest of Florida's...</summary>
+  </entry>
+  <entry>
+    <title>Separately, the yearly assessment cap on rental and commercial property would fall from 10% to 5%.</title>
+    <link href="https://floridaaudit.github.io/c/property-taxes/non-homestead-assessment-cap.html"/>
+    <id>https://floridaaudit.github.io/c/property-taxes/non-homestead-assessment-cap.html</id>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <summary>Property Taxes: Maximum annual growth in taxable assessed value for non-homestead, non-agricultural parcels, non-school levies; the current 10% cap has been...</summary>
   </entry>
 </feed>
