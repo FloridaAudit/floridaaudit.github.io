@@ -1,0 +1,14 @@
+group,part,real_2019,value_2024,change,se_2019,se_2024
+owner_mortgage,Mortgage and other costs,1394.34,1594.52,200.18,6.56,6.74
+owner_mortgage,Insurance,178.59,246.05,67.46,0.92,1.42
+owner_mortgage,Property taxes,310.29,345.95,35.66,1.79,2.34
+owner_mortgage,Utilities and fuels,297.52,306.65,9.13,0.99,1.99
+owner_mortgage,TOTAL,2179.97,2493.13,313.16,8.12,9.05
+owner_free,Mortgage and other costs,140.79,233.39,92.6,1.89,2.6
+owner_free,Insurance,127.83,173.25,45.42,0.98,1.12
+owner_free,Property taxes,234.99,304.54,69.55,2.02,3.3
+owner_free,Utilities and fuels,245.04,265.76,20.72,1.02,2.25
+owner_free,TOTAL,748.59,976.91,228.32,3.84,5.36
+renter,Rent,1413.72,1729.3,315.58,4.87,6.52
+renter,Utilities and fuels,189.48,192.55,3.07,1.02,1.66
+renter,TOTAL,1603.21,1921.86,318.65,5.19,6.88

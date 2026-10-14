@@ -4,7 +4,7 @@
   <link href="https://floridaaudit.github.io/"/>
   <link rel="self" href="https://floridaaudit.github.io/feed.xml"/>
   <id>https://floridaaudit.github.io/</id>
-  <updated>2026-09-29T00:00:00Z</updated>
+  <updated>2026-10-01T00:00:00Z</updated>
   <entry>
     <title>Florida has elected a Republican governor and Legislature in every election since 1998.</title>
     <link href="https://floridaaudit.github.io/c/who-governs/one-party-control.html"/>
@@ -27,7 +27,77 @@
     <summary>Who Governs: Seats by party, Florida Senate (40 seats), 1980 to 2026.</summary>
   </entry>
   <entry>
-    <title>By 2028 the maximum non-school homestead exemption would be $250,000 under Amendment 3, against $52,805 under current law.</title>
+    <title>Florida's median rent rose 91% from 2010 to 2024, to $1,812 a month.</title>
+    <link href="https://floridaaudit.github.io/c/housing-and-wages/median-rent.html"/>
+    <id>https://floridaaudit.github.io/c/housing-and-wages/median-rent.html</id>
+    <updated>2026-10-01T00:00:00Z</updated>
+    <summary>Housing and Wages: Median gross rent, renter-occupied units paying cash rent, Florida and U.S., 2010 to 2024.</summary>
+  </entry>
+  <entry>
+    <title>Florida's median home value rose 142% from 2010 to 2024, to $396,900.</title>
+    <link href="https://floridaaudit.github.io/c/housing-and-wages/home-values.html"/>
+    <id>https://floridaaudit.github.io/c/housing-and-wages/home-values.html</id>
+    <updated>2026-10-01T00:00:00Z</updated>
+    <summary>Housing and Wages: Median value of owner-occupied housing units, Florida and U.S., 2010 to 2024.</summary>
+  </entry>
+  <entry>
+    <title>Since 2010, Florida's median rent rose 33% and median home value 68% after inflation, against 22% for median household income.</title>
+    <link href="https://floridaaudit.github.io/c/housing-and-wages/housing-costs-vs-income.html"/>
+    <id>https://floridaaudit.github.io/c/housing-and-wages/housing-costs-vs-income.html</id>
+    <updated>2026-10-01T00:00:00Z</updated>
+    <summary>Housing and Wages: Index, 2010 = 100, inflation-adjusted with CPI-U.</summary>
+  </entry>
+  <entry>
+    <title>62.1% of Florida renters spent 30% or more of income on rent in 2024, the highest share since at least 2010.</title>
+    <link href="https://floridaaudit.github.io/c/housing-and-wages/rent-burden.html"/>
+    <id>https://floridaaudit.github.io/c/housing-and-wages/rent-burden.html</id>
+    <updated>2026-10-01T00:00:00Z</updated>
+    <summary>Housing and Wages: Renter households spending 30% or more of household income on gross rent, Florida and U.S., 2010 to 2024.</summary>
+  </entry>
+  <entry>
+    <title>Florida had 41 affordable and available rental units for every 100 renter households earning up to 60% of area median income in 2024.</title>
+    <link href="https://floridaaudit.github.io/c/housing-and-wages/affordable-rental-shortage.html"/>
+    <id>https://floridaaudit.github.io/c/housing-and-wages/affordable-rental-shortage.html</id>
+    <updated>2026-10-01T00:00:00Z</updated>
+    <summary>Housing and Wages: Surplus or shortage of rental units affordable and available to renter households, by household income as a share of area median income...</summary>
+  </entry>
+  <entry>
+    <title>At Florida's median wage, a month of median rent took 80 hours of work in 2024, against 62 nationally.</title>
+    <link href="https://floridaaudit.github.io/c/housing-and-wages/hours-of-work-for-rent.html"/>
+    <id>https://floridaaudit.github.io/c/housing-and-wages/hours-of-work-for-rent.html</id>
+    <updated>2026-10-01T00:00:00Z</updated>
+    <summary>Housing and Wages: Median monthly gross rent divided by the median hourly wage for all occupations.</summary>
+  </entry>
+  <entry>
+    <title>Florida's average pay rose 18.5% after inflation from 2010 to 2025, faster than the U.S. (14.0%), and remains 7.6% below the U.S. average.</title>
+    <link href="https://floridaaudit.github.io/c/housing-and-wages/average-pay.html"/>
+    <id>https://floridaaudit.github.io/c/housing-and-wages/average-pay.html</id>
+    <updated>2026-10-01T00:00:00Z</updated>
+    <summary>Housing and Wages: Average annual pay, all jobs covered by unemployment insurance, Florida and U.S.</summary>
+  </entry>
+  <entry>
+    <title>Adjusted for Florida's price level, its median wage ranks 50th of 51 jurisdictions, ahead of only Mississippi.</title>
+    <link href="https://floridaaudit.github.io/c/housing-and-wages/price-adjusted-wage-rank.html"/>
+    <id>https://floridaaudit.github.io/c/housing-and-wages/price-adjusted-wage-rank.html</id>
+    <updated>2026-10-01T00:00:00Z</updated>
+    <summary>Housing and Wages: Florida's rank among the 50 states and D.C., 2024 (1 = highest), before and after dividing by each state's price level.</summary>
+  </entry>
+  <entry>
+    <title>The monthly cost of a Florida home with a mortgage rose $313 after inflation from 2019 to 2024, $67 of it insurance.</title>
+    <link href="https://floridaaudit.github.io/c/housing-and-wages/what-raised-the-cost-of-owning.html"/>
+    <id>https://floridaaudit.github.io/c/housing-and-wages/what-raised-the-cost-of-owning.html</id>
+    <updated>2026-10-01T00:00:00Z</updated>
+    <summary>Housing and Wages: Average monthly cost for owners with a mortgage, in 2024 dollars.</summary>
+  </entry>
+  <entry>
+    <title>Net domestic migration peaked at 310,892 in 2022 and fell to 22,517 in 2025, 93% below the peak.</title>
+    <link href="https://floridaaudit.github.io/c/housing-and-wages/net-migration.html"/>
+    <id>https://floridaaudit.github.io/c/housing-and-wages/net-migration.html</id>
+    <updated>2026-10-01T00:00:00Z</updated>
+    <summary>Housing and Wages: People moving to Florida from other states, net of those leaving, and net international migration, by Census estimate year.</summary>
+  </entry>
+  <entry>
+    <title>If passed, by 2028 the maximum non-school homestead exemption would be $250,000 under Amendment 3, versus $52,805 under current law.</title>
     <link href="https://floridaaudit.github.io/c/property-taxes/homestead-exemption-250k.html"/>
     <id>https://floridaaudit.github.io/c/property-taxes/homestead-exemption-250k.html</id>
     <updated>2026-09-29T00:00:00Z</updated>
@@ -38,7 +108,7 @@
     <link href="https://floridaaudit.github.io/c/property-taxes/homestead-saving-per-house.html"/>
     <id>https://floridaaudit.github.io/c/property-taxes/homestead-saving-per-house.html</id>
     <updated>2026-09-29T00:00:00Z</updated>
-    <summary>Property Taxes: Yearly saving for one qualifying homestead, not for a household: the exempt value added over the 2026 maximum ($98,589 in 2027, $198,589 in...</summary>
+    <summary>Property Taxes: Yearly saving for one qualifying homestead, not for a household, from the exempt value added over the 2026 maximum.</summary>
   </entry>
   <entry>
     <title>Florida's 2.92 million renter households would get no homestead exemption.</title>
@@ -80,13 +150,20 @@
     <link href="https://floridaaudit.github.io/c/property-taxes/ten-counties-by-government-type.html"/>
     <id>https://floridaaudit.github.io/c/property-taxes/ten-counties-by-government-type.html</id>
     <updated>2026-09-29T00:00:00Z</updated>
-    <summary>Property Taxes: Recurring annual reduction in local non-school property tax revenue once the exemption is fully phased in, for the ten largest of Florida's...</summary>
+    <summary>Property Taxes: Recurring annual reduction for the ten largest of Florida's 67 counties, split between the county government and the cities and special...</summary>
   </entry>
   <entry>
     <title>Separately, the yearly assessment cap on rental and commercial property would fall from 10% to 5%.</title>
     <link href="https://floridaaudit.github.io/c/property-taxes/non-homestead-assessment-cap.html"/>
     <id>https://floridaaudit.github.io/c/property-taxes/non-homestead-assessment-cap.html</id>
     <updated>2026-09-29T00:00:00Z</updated>
-    <summary>Property Taxes: Maximum annual growth in taxable assessed value for non-homestead, non-agricultural parcels, non-school levies; the current 10% cap has been...</summary>
+    <summary>Property Taxes: Maximum annual growth in taxable assessed value for non-homestead, non-agricultural parcels, non-school levies.</summary>
+  </entry>
+  <entry>
+    <title>Impact to 2031-32 budget on all counties in Florida, based on 2025 non-school property tax revenue.</title>
+    <link href="https://floridaaudit.github.io/c/property-taxes/every-county.html"/>
+    <id>https://floridaaudit.github.io/c/property-taxes/every-county.html</id>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <summary>Property Taxes: Recurring annual reduction in local non-school property tax revenue by FY2031-32, and what it is as a share of that county's 2025 non-school...</summary>
   </entry>
 </feed>

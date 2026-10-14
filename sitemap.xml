@@ -1,13 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://floridaaudit.github.io/</loc><lastmod>2026-09-27</lastmod></url>
+  <url><loc>https://floridaaudit.github.io/data/</loc></url>
   <url><loc>https://floridaaudit.github.io/methods.html</loc></url>
   <url><loc>https://floridaaudit.github.io/corrections.html</loc></url>
   <url><loc>https://floridaaudit.github.io/c/who-governs/</loc></url>
+  <url><loc>https://floridaaudit.github.io/c/housing-and-wages/</loc></url>
   <url><loc>https://floridaaudit.github.io/c/property-taxes/</loc></url>
   <url><loc>https://floridaaudit.github.io/c/who-governs/one-party-control.html</loc><lastmod>2026-09-27</lastmod></url>
   <url><loc>https://floridaaudit.github.io/c/who-governs/house-seats.html</loc><lastmod>2026-09-27</lastmod></url>
   <url><loc>https://floridaaudit.github.io/c/who-governs/senate-seats.html</loc><lastmod>2026-09-27</lastmod></url>
+  <url><loc>https://floridaaudit.github.io/c/housing-and-wages/median-rent.html</loc><lastmod>2026-10-01</lastmod></url>
+  <url><loc>https://floridaaudit.github.io/c/housing-and-wages/home-values.html</loc><lastmod>2026-10-01</lastmod></url>
+  <url><loc>https://floridaaudit.github.io/c/housing-and-wages/housing-costs-vs-income.html</loc><lastmod>2026-10-01</lastmod></url>
+  <url><loc>https://floridaaudit.github.io/c/housing-and-wages/rent-burden.html</loc><lastmod>2026-10-01</lastmod></url>
+  <url><loc>https://floridaaudit.github.io/c/housing-and-wages/affordable-rental-shortage.html</loc><lastmod>2026-10-01</lastmod></url>
+  <url><loc>https://floridaaudit.github.io/c/housing-and-wages/hours-of-work-for-rent.html</loc><lastmod>2026-10-01</lastmod></url>
+  <url><loc>https://floridaaudit.github.io/c/housing-and-wages/average-pay.html</loc><lastmod>2026-10-01</lastmod></url>
+  <url><loc>https://floridaaudit.github.io/c/housing-and-wages/price-adjusted-wage-rank.html</loc><lastmod>2026-10-01</lastmod></url>
+  <url><loc>https://floridaaudit.github.io/c/housing-and-wages/what-raised-the-cost-of-owning.html</loc><lastmod>2026-10-01</lastmod></url>
+  <url><loc>https://floridaaudit.github.io/c/housing-and-wages/net-migration.html</loc><lastmod>2026-10-01</lastmod></url>
   <url><loc>https://floridaaudit.github.io/c/property-taxes/homestead-exemption-250k.html</loc><lastmod>2026-09-29</lastmod></url>
   <url><loc>https://floridaaudit.github.io/c/property-taxes/homestead-saving-per-house.html</loc><lastmod>2026-09-29</lastmod></url>
   <url><loc>https://floridaaudit.github.io/c/property-taxes/renter-households-no-exemption.html</loc><lastmod>2026-09-29</lastmod></url>
@@ -17,4 +29,21 @@
   <url><loc>https://floridaaudit.github.io/c/property-taxes/county-share-of-2025-levies.html</loc><lastmod>2026-09-29</lastmod></url>
   <url><loc>https://floridaaudit.github.io/c/property-taxes/ten-counties-by-government-type.html</loc><lastmod>2026-09-29</lastmod></url>
   <url><loc>https://floridaaudit.github.io/c/property-taxes/non-homestead-assessment-cap.html</loc><lastmod>2026-09-29</lastmod></url>
+  <url><loc>https://floridaaudit.github.io/c/property-taxes/every-county.html</loc><lastmod>2026-09-29</lastmod></url>
+  <url><loc>https://floridaaudit.github.io/data/who-governs/governor-and-legislature-by-party-1980-2026.html</loc></url>
+  <url><loc>https://floridaaudit.github.io/data/housing-and-wages/acs-housing-2010-2024.html</loc></url>
+  <url><loc>https://floridaaudit.github.io/data/housing-and-wages/real-rent-value-income-index.html</loc></url>
+  <url><loc>https://floridaaudit.github.io/data/housing-and-wages/rental-shortage-by-income-2024.html</loc></url>
+  <url><loc>https://floridaaudit.github.io/data/housing-and-wages/hours-to-pay-median-rent.html</loc></url>
+  <url><loc>https://floridaaudit.github.io/data/housing-and-wages/average-annual-pay-qcew.html</loc></url>
+  <url><loc>https://floridaaudit.github.io/data/housing-and-wages/price-adjusted-ranks-2024.html</loc></url>
+  <url><loc>https://floridaaudit.github.io/data/housing-and-wages/housing-cost-components-2019-2024.html</loc></url>
+  <url><loc>https://floridaaudit.github.io/data/housing-and-wages/net-migration-2011-2025.html</loc></url>
+  <url><loc>https://floridaaudit.github.io/data/property-taxes/exemption-schedule.html</loc></url>
+  <url><loc>https://floridaaudit.github.io/data/property-taxes/savings-illustration.html</loc></url>
+  <url><loc>https://floridaaudit.github.io/data/property-taxes/households-by-tenure-2024.html</loc></url>
+  <url><loc>https://floridaaudit.github.io/data/property-taxes/amendment-3-revenue-estimate.html</loc></url>
+  <url><loc>https://floridaaudit.github.io/data/property-taxes/county-reduction-share.html</loc></url>
+  <url><loc>https://floridaaudit.github.io/data/property-taxes/county-impact-by-tier.html</loc></url>
+  <url><loc>https://floridaaudit.github.io/data/property-taxes/assessment-cap-illustration.html</loc></url>
 </urlset>
